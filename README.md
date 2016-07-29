@@ -1,4 +1,4 @@
-Seth
+#Seth
 
 This Java project generates solutions for the card game 'Set' (https://en.wikipedia.org/wiki/Set_(game)).
 
